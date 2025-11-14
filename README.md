@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm a Senior Software Engineer<br>I craft full-stack applications and solve real-world problems
-
+I'm a Musician
+I love guitars and online games
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelonino38) 
