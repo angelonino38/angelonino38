@@ -5,7 +5,6 @@
 
 ![til](https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif)
 ![til](https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif)
-![til](https://user-images.githubusercontent.com/74038190/216655840-d7262fea-0313-4161-9c45-f69077ea6a2f.gif)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="35" height="35" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angelonino38) 
