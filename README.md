@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a Senior Software Engineer<br>I craft full-stack applications and solve real-world problems
+Hi! I'm a Senior Software Engineer<br>I craft full-stack applications and solve real-world problems. 
 I'm a Musician
 I love guitars and online games
 
