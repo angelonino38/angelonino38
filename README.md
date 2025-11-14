@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="30" height="30" /> About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="35" height="35" /> About Me:
 Hi! I'm a Senior Software Engineer<br>I craft full-stack applications and solve real-world problems.<br>I'm a Musician.<br>I love guitars and online games.
 
 ## 🌐 Socials:
